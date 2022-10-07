@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/JUNKYARD/static/css/main.5bc26c9b.css",
+    "main.js": "/JUNKYARD/static/js/main.398fef3e.js",
+    "static/media/SEGA.woff": "/JUNKYARD/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/JUNKYARD/index.html",
+    "main.5bc26c9b.css.map": "/JUNKYARD/static/css/main.5bc26c9b.css.map",
+    "main.398fef3e.js.map": "/JUNKYARD/static/js/main.398fef3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc26c9b.css",
+    "static/js/main.398fef3e.js"
+  ]
+}
